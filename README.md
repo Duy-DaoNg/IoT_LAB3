@@ -3,13 +3,13 @@
 ### Step 1: Clone the project
 
 ```bash
-  git clone https://github.com/Duy-DaoNg/IoT_LAB2B.git
+  git clone https://github.com/Duy-DaoNg/IoT_LAB3.git
 ```
 
 ### Step 2: Navigate to the project directory
 
 ```bash
-  cd IoT_LAB2B
+  cd IoT_LAB3
 ```
 
 ### Step 3: Install Packages
