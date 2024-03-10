@@ -1,0 +1,7 @@
+adafruit-io == 2.7.0
+keras == 2.10.0
+tensorflow == 2.10.0
+Pillow == 9.2.0
+numpy == 1.23.3
+opencv-python-headless==4.9.0.80
+pyserial==3.5
